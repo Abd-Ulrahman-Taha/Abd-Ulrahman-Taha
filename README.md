@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-ulrahman-taha&label=Profile%20views&color=0e75b6&style=flat" alt="abd-ulrahman-taha" /> </p>
 
-- 🔭 I’m currently student at **Faculty of Computers and Artificial intelligence Cairo University**
+- 🔭 Graduated From **Faculty of Computers and Artificial intelligence Cairo University**
 
-- 🌱 I’m currently learning **Spring boot**
 
 - 📫 How to reach me **Abdo.taha0199@gmail.com**
 
